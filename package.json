@@ -1,0 +1,34 @@
+{
+  "name": "quality-thought-playwright",
+  "version": "1.0.0",
+  "description": "This is an automation project",
+  "license": "ISC",
+  "author": "Quality Thought",
+  "type": "commonjs",
+  "main": "index.js",
+  "keywords": [
+    "pw",
+    "ts",
+    "js"
+  ],
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^13.2.1",
+    "@cucumber/messages": "^34.2.1",
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.2.0",
+    "allure-commandline": "^2.43.0",
+    "allure-cucumberjs": "^3.11.0",
+    "allure-js-commons": "^3.11.0",
+    "cucumber-html-reporter": "^5.0.2",
+    "dotenv": "^17.4.2",
+    "playwright": "^1.62.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "node": "^26.7.0"
+  }
+}

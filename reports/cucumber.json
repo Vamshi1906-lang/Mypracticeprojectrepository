@@ -1,0 +1,81 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "verify-the-playwright-methods;i-verify-the-methods",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "I Verify the methods",
+        "steps": [
+          {
+            "result": {
+              "status": "passed",
+              "duration": 2642557200
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "I Launch the browser4",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\Day4playwrightmethods.ts:15"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 3293090799
+            },
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "I launch the TestAutomation practice website",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\Day4playwrightmethods.ts:32"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 24109337899
+            },
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "I verify the playwright methods",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\Day4playwrightmethods.ts:38"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 5037530299
+            },
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "I close the browser4",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\Day4playwrightmethods.ts:174"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@methods1",
+            "line": 4
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "verify-the-playwright-methods",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Verify the playwright Methods",
+    "tags": [],
+    "uri": "PlaywrightAutomationCode\\FeatureFiles\\Day4playwrightMethods.feature"
+  }
+]

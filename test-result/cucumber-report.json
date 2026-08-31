@@ -1,0 +1,55 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "i-verify-the-windowhandling;i-verify-the-playwright-windowhandle",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "I Verify the playwright Windowhandle",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "I launch the browser12",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\Day12 windows_handlng.ts:12"
+            }
+          },
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "I verify the Windowhandle",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\Day12 windows_handlng.ts:31"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@windowhandle",
+            "line": 3
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "i-verify-the-windowhandling",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "I Verify the windowhandling",
+    "tags": [],
+    "uri": "PlaywrightAutomationCode\\FeatureFiles\\Day12 windows_handlng.feature"
+  }
+]
